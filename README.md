@@ -35,7 +35,6 @@
 <body id="colorp">
   <body class="container">
     <div class="navbar">
-        <img src="images/logo.png" alt="">
 
     </div>
     <div class="row">
